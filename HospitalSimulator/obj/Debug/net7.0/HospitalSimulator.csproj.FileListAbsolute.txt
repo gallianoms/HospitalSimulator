@@ -1,0 +1,15 @@
+/Users/sgall/Projects/HospitalSimulator/HospitalSimulator/bin/Debug/net7.0/HospitalSimulator
+/Users/sgall/Projects/HospitalSimulator/HospitalSimulator/bin/Debug/net7.0/HospitalSimulator.deps.json
+/Users/sgall/Projects/HospitalSimulator/HospitalSimulator/bin/Debug/net7.0/HospitalSimulator.runtimeconfig.json
+/Users/sgall/Projects/HospitalSimulator/HospitalSimulator/bin/Debug/net7.0/HospitalSimulator.dll
+/Users/sgall/Projects/HospitalSimulator/HospitalSimulator/bin/Debug/net7.0/HospitalSimulator.pdb
+/Users/sgall/Projects/HospitalSimulator/HospitalSimulator/obj/Debug/net7.0/HospitalSimulator.csproj.AssemblyReference.cache
+/Users/sgall/Projects/HospitalSimulator/HospitalSimulator/obj/Debug/net7.0/HospitalSimulator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sgall/Projects/HospitalSimulator/HospitalSimulator/obj/Debug/net7.0/HospitalSimulator.AssemblyInfoInputs.cache
+/Users/sgall/Projects/HospitalSimulator/HospitalSimulator/obj/Debug/net7.0/HospitalSimulator.AssemblyInfo.cs
+/Users/sgall/Projects/HospitalSimulator/HospitalSimulator/obj/Debug/net7.0/HospitalSimulator.csproj.CoreCompileInputs.cache
+/Users/sgall/Projects/HospitalSimulator/HospitalSimulator/obj/Debug/net7.0/HospitalSimulator.dll
+/Users/sgall/Projects/HospitalSimulator/HospitalSimulator/obj/Debug/net7.0/refint/HospitalSimulator.dll
+/Users/sgall/Projects/HospitalSimulator/HospitalSimulator/obj/Debug/net7.0/HospitalSimulator.pdb
+/Users/sgall/Projects/HospitalSimulator/HospitalSimulator/obj/Debug/net7.0/HospitalSimulator.genruntimeconfig.cache
+/Users/sgall/Projects/HospitalSimulator/HospitalSimulator/obj/Debug/net7.0/ref/HospitalSimulator.dll
